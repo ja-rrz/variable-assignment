@@ -1,4 +1,4 @@
-body{
+section{
     background: khaki;
 }
 
@@ -14,6 +14,25 @@ body{
   #my-favourite-color {
     color: black;
     background-color: white;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 1em;
+    padding: 0.5em;
+  }
+
+  #my-hair-color{
+    color: white;
+    background-color: black;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 1em;
+    padding: 0.5em;
+  }
+
+  #my-number-of-siblings{
+
+    color: white;
+    background-color: royalblue;
     font-size: 1.2em;
     font-weight: bold;
     margin-bottom: 1em;
